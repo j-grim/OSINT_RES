@@ -6,16 +6,16 @@
 
 # The Basics of OSINT
 
-###### OSINT stands for "Open Source Intelligence". This means: intelligence that can be sourced about a given target from public records and data. In the intelligence community, OSINT has a more specific designation. In the security community, it broadly refers to any type of data that can be sourced without resorting to unauthorized access methods.
+OSINT stands for "Open Source Intelligence". This means: intelligence that can be sourced about a given target from public records and data. In the intelligence community, OSINT has a more specific designation. In the security community, it broadly refers to any type of data that can be sourced without resorting to unauthorized access methods.
 
-###### The typical OSINT researcher will use a very wide variety of sources and tactics, some of which require more advanced knowledge of networks and the ability to "roll your own" code to access or interpret specific data streams. I will address (for the sake of the target audience) provide simple guides to using a variety of resources (both programatic ones and websites).
+The typical OSINT researcher will use a very wide variety of sources and tactics, some of which require more advanced knowledge of networks and the ability to "roll your own" code to access or interpret specific data streams. I will address (for the sake of the target audience) provide simple guides to using a variety of resources (both programatic ones and websites).
 
-###### I will include some technical instruction via command line for those running Mac or Linux, but I will indicate it with a "technical warning".
+I will include some technical instruction via command line for those running Mac or Linux, but I will indicate it with a "technical warning".
 
 
 ### How Does One Conduct OSINT Research?
 
-###### 
+
 
 # Useful Tools and Links Short List: 
 
