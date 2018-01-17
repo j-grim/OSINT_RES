@@ -1,8 +1,8 @@
-#OSINT RESOURCES#
+# OSINT RESOURCES
 
-### Quick OSINT Guide to OSINT resources, tools, and techniques for independent journalists and techno-sleuths. ###
+### Quick OSINT Guide to OSINT resources, tools, and techniques for independent journalists and techno-sleuths.
 
-###### This is primarily for those who are just getting started in OSINT, those who are new to investigative journalism, and established independent journalists who want to expand their research techniques in a meaningful way. ######
+###### This is primarily for those who are just getting started in OSINT, those who are new to investigative journalism, and established independent journalists who want to expand their research techniques in a meaningful way.
 
 
 
