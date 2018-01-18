@@ -15,7 +15,16 @@ I will include some technical instruction via command line for those running Mac
 
 ### How Does One Conduct OSINT Research?
 
+OSINT research is conducted a number of ways, but the fundamental methodology is as follows:
 
+1. Determine your target. Without a goal to focus on, your research is useless. If you are researching multiple people, say, in the capacity of a company or an organization, then target them one by one. But, always keep your focus on one target at a time.
+2. Organize the information you already have. Examples include: Full name, university attended, place of birth or upbringing, parents names, email addresses, current addresses, phone numbers, etc. Whatever you have at your disposal, this is what you will use to build your body of knowledge on the target. 
+3. Using a variety of methods, some low-tech, some very high-tech, and most being somewhere in between, you begin accumulating more and more information about the target, via public resources. 
+4. OSINT, as definied by the security community (rather than the intelligence community) comes with the goal of never snapping a branch: that is, you never send a packet in the direction of the subject of your research, and the undertaking of such research is never known by the target.
+
+This all sounds simple, and in theory, it is. You would be shocked at how much information you can learn about an individual. 
+
+As one delves further into OSINT, the tactics become more technical. This guide will not be concerned with such things, as the assumption is that the audience using this paper are researchers and journalists, not technical types.
 
 # Useful Tools and Links Short List: 
 
