@@ -26,6 +26,43 @@ This all sounds simple, and in theory, it is. You would be shocked at how much i
 
 As one delves further into OSINT, the tactics become more technical. This guide will not be concerned with such things, as the assumption is that the audience using this paper are researchers and journalists, not technical types.
 
+
+# Getting Started: An example
+
+Bob is the purportedly unscrupulous owner of a night club. It is told that his business functions, underneath as a business of ill repute. Bob has decided to run for town mayor. He is well-liked, has power, money, and influence. You want to dig in deeper to see whether Bob would make a good mayor, or use his political power to do not-so-good things. Where do you begin?
+
+*The easiest way to get started is to Google Bob.* Sounds ridiculously easy, and it is. Give him a google. Use various search functions to narrow him down. Say Bob lives in Dallas, TX. Run a search query like so:
+
+"Bob Whatshisname" "Dallas"
+
+Pop it into Google, and start hunting for breadcrumbs.
+
+Don't assume anything particularly salacious is going to pop up in Google (although, you'd be shocked to find that it frequently does). Just collect whatever information you can. You are on a mission to scavenge for any data you can pick up. This includes, but is not limited to: names of pets, assets owned, addresses lived at, middle names, parents, wives and childrens' names, what kind of vehicle he drives, what his hobbies are. Remember, anything you can learn about Bob will help you create a greater scope of investigation.
+
+Make sure to collect any images you can find of him, or taken by him. Collect the usernames of any social media accounts you come across.
+
+Once you exhaust google, visit yandex.com. It has more fine-tuned search. The search operators for yandex are explained here: https://yandex.com/support/search/how-to-search/search-operators.html 
+They are very powerful, and the search engine is very, very useful. Google also has search operators, though there are fewer. It is important to canvas the search engines to the best of your ability.
+Search terms you should be concerned with are meant to include any keywords that you feel may be useful, given what you already know about Bob. Be creative. If nothing turns up, no harm no foul.
+
+Once search engine leads have dried up, it is time to move on to greener pastures: social media accounts. You can learn a ton by adding your target on social media using a honeypot account, or a spoof account. This steps *somewhat* outside of the realm of traditional OSINT, because it puts the researcher in a position to have their IP address recorded. If you are not able to successfully obsfuscate your identity via vpns, burner phones, and email addresses obtained under anonymous conditions, skip this step. Otherwise, if you have the means and desire, continue. Find out who Bob knows, or what Bob's weaknesses are. If he likes beautiful women, make an account that is sure to draw him in. Once you have internal access to social media accounts, there is a trove of information waiting for you.
+
+Now, if Bob is smart, he will do his best to maintain a formal presence online. (This is the case for many high-profile people, so if that is who you are after, go into social media sleuthing with the knowledge that you may not score heavy duty data this way.) What social media profiles (especially ones with photos in them) can offer you, however, is the potential for metadata.
+
+Using image meta data, you can piece together lots of information about the individual who took the picture: where they were when they took it, what kind of device they used to take it, the date they took it, etc. This can be extraordinarily helpful. 
+
+This can also be done for other types of media, like videos and voice or music clips. 
+
+Beyond using social media to target him directly, depending on what you were able to obtain from your prior searches, you can start looking at his social circles in his social media accounts, doing the same thing for his associates as you have done for him.
+
+If you are able to obtain a mix of: business records, articles, personal data, friendship data, meta data, etc, you can begin to piece together a picture of who Bob is, and where your research should go next.
+
+In this example, let us assume that in our search, we found that Bob has several email accounts. Two of them are public (his business email, and the one he uses for general correspondence), but one is a private email that you obtained when your honeypot promised to send racy photosif you could get an email to send them to. Hubba hubba. You never send said racy pics, because the truth is you aren't a tall, buxom blonde. What you have done, however is trace this email to a WHOIS registrant for a site called "dallasdoesdebbie.com", an escort service. You were able to achieve this by simply typing in "bobssecretemail@gmail.com" "dallas". Magically, a registrant list appeared to you in Google. As Bob is the registrant of this site, you can basically confirm that Bob has gotten into the escort business. Boom. You have hit your target.
+
+It isn't always this simple, but starting small and building is how you get from point A to point B.
+
+Another thing to keep in mind is that you aren't always going to find what you're looking for. Your suspicions won't always be confirmed, but you may wander down another rabbit hole entirely, and find yourself in an alternate universe, staring at something weirder, more grim, and ppossibly more damning, or... you may find that Bob is a lot more scrupulous than you believed... or at least accourding to information publicly available on him.
+
 # Useful Tools and Links Short List: 
 
 
