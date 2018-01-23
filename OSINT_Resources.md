@@ -2,7 +2,7 @@
 
 ### Quick OSINT Guide to OSINT resources, tools, and techniques for independent journalists and techno-sleuths.
 
-###### This is primarily for those who are just getting started in OSINT, those who are new to investigative journalism, and established independent journalists who want to expand their research techniques in a meaningful way.
+###### This is intended for those who are just getting started in OSINT, those who are new to investigative journalism, and established independent journalists who want to expand their research techniques in a meaningful way.
 
 # The Basics of OSINT
 
@@ -15,7 +15,7 @@ I will include some technical instruction via command line for those running Mac
 
 ### How Does One Conduct OSINT Research?
 
-OSINT research is conducted a number of ways, but the fundamental methodology is as follows:
+OSINT research is conducted a number of ways, but the most basic, preliminary methodology is as follows:
 
 1. Determine your target. Without a goal to focus on, your research is useless. If you are researching multiple people, say, in the capacity of a company or an organization, then target them one by one. But, always keep your focus on one target at a time.
 2. Organize the information you already have. Examples include: Full name, university attended, place of birth or upbringing, parents names, email addresses, current addresses, phone numbers, etc. Whatever you have at your disposal, this is what you will use to build your body of knowledge on the target. 
@@ -64,10 +64,22 @@ It isn't always this simple, but starting small and building is how you get from
 
 Another thing to keep in mind is that you aren't always going to find what you're looking for. Your suspicions won't always be confirmed, but you may wander down another rabbit hole entirely, and find yourself in an alternate universe, staring at something weirder, more grim, and ppossibly more damning, or... you may find that Bob is a lot more scrupulous than you believed... or at least accourding to information publicly available on him.
 
+
+#Using OSINT Tools: Going Beyond Google
+
+I've selected a handful of tools that are indespensible for low-tech OSINT research. I will include the most popular command-line tool, recon-ng, for those with macs or linux boxes, who are either command-line proficient or willing to go where eagles dare. 
+Lets get things under way:
+
+
+1. OSINTframework.com: Before you go out into the wild forests of the internet, hunting for dirt, you need to lay out the basics. Fortunately, OSINTframework.com does that bit for you. The pillars of OSINT lay at the base of the OSINT framework. While you are sleuthing, you have the option of taking all these avenues in the pursuit of intelligence gathering. It is helpful to run these bases. Expanding the web, by clicking on the circles, will net you heaps of different tools and avenues for researching. This should be every OSINT n00b's first stop.
+Some of these are likely going to be unrelated to your journey, so feel free to completely ignore the ones you don't feel apply. Some are more advanced or for people in the field.
+
+2.Browser Plugins: For the low-tech sleuth, browser plugins are an amazing option. While there are GUI applications for windows boxes, most of them are paid, or unmaintained. Browser plugins are relatively platform agnostic, and are often quite useful.
+
 # Useful Tools and Links Short List: 
 
 
-* Osintframework.com - A Full interactive chart of Information Domains and tools used regularly in OSINT. Use *this* to assist in organizing your research model.
+* OSINTframework.com - A Full interactive chart of Information Domains and tools used regularly in OSINT. Use *this* to assist in organizing your research model.
 * An entire list of browser plugins for OSINT https://github.com/IVMachiavelli/OSINT-Browser-Plugins
 * yandex.com - Russia's most popular browser. It contains highly customizable search tools not available through google.
 * google.com (duh)
